@@ -1,0 +1,1 @@
+module.exports = (score, max = 100) => score / max;
